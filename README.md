@@ -13,4 +13,4 @@ view details, read chapters, and manage favorites with offline support.
 - Offline storage using Hive
 - Clean architecture (providers & repositories)
 
-## Screenshots
+
