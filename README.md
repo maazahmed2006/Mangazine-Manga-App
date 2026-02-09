@@ -1,16 +1,16 @@
-# manga_app
+## Magazine Manga App
 
-A new Flutter project.
+**Tech Stack:** Flutter, Dart, Riverpod, Hive, REST API
 
-## Getting Started
+**Description:**  
+A manga reading application that allows users to browse manga,
+view details, read chapters, and manage favorites with offline support.
 
-This project is a starting point for a Flutter application.
+**Features:**
+- Browse and search manga
+- View manga details & chapters
+- Add/remove favorites
+- Offline storage using Hive
+- Clean architecture (providers & repositories)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
